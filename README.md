@@ -1,5 +1,5 @@
 # Live_stream_tweets
-Collecting Live Streaming Twitter Data and plot time series of all the Tweets
+Collecting Live Streaming Twitter Data and plot time series for all the Tweets
 
 Retweets Messages:
 ![retweets](https://user-images.githubusercontent.com/5540884/37244309-21841390-24ad-11e8-99f3-84ab82f38c3d.png)
